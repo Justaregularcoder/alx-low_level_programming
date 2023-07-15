@@ -9,7 +9,7 @@ char w;
 int u;
 long int y;
 long long int z;
-float x; 
+float x;
 printf("Size of a char: %lu byte(s)\n", (unsigned long)sizeof(w));
 printf("Size of an int: %lu byte(s)\n", (unsigned long)sizeof(u));
 printf("Size of a long int: %lu byte(s)\n", (unsigned long)sizeof(y));
